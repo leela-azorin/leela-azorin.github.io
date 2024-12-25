@@ -30,18 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "post-a-post-with-tabs",
-      
-        title: "a post with tabs",
-      
-      description: "this is what included tabs in a post could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/sample-posts/2024/05/01/tabs.html";
-        
-      },
-    },{id: "news-woman-student-ater-at-the-ens-de-lyon",
+        },{id: "news-woman-student-ater-at-the-ens-de-lyon",
           title: ':woman_student: ATER at the ENS de Lyon',
           description: "",
           section: "News",},{id: "projects-project-1",

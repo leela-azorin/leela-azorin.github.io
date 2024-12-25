@@ -107,6 +107,17 @@ ninja.data = [{
           window.location.href = "/sample-posts/2024/01/27/vega-lite.html";
         
       },
+    },{id: "post-a-post-with-geojson",
+      
+        title: "a post with geojson",
+      
+      description: "this is what included geojson code could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/sample-posts/2024/01/26/geojson-map.html";
+        
+      },
     },{id: "news-woman-student-ater-at-the-ens-de-lyon",
           title: ':woman_student: ATER at the ENS de Lyon',
           description: "",

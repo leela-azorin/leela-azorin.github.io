@@ -129,17 +129,6 @@ ninja.data = [{
           window.location.href = "/sample-posts/2024/01/26/echarts.html";
         
       },
-    },{id: "post-a-post-with-chart-js",
-      
-        title: "a post with chart.js",
-      
-      description: "this is what included chart.js code could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/sample-posts/2024/01/26/chartjs.html";
-        
-      },
     },{id: "news-woman-student-ater-at-the-ens-de-lyon",
           title: ':woman_student: ATER at the ENS de Lyon',
           description: "",

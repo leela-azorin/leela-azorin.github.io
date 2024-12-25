@@ -294,6 +294,50 @@ ninja.data = [{
           window.location.href = "/sample-posts/external-services/2020/09/28/twitter.html";
         
       },
+    },{id: "post-a-post-with-disqus-comments",
+      
+        title: "a post with disqus comments",
+      
+      description: "an example of a blog post with disqus comments",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/sample-posts/external-services/2015/10/20/disqus-comments.html";
+        
+      },
+    },{id: "post-a-post-with-math",
+      
+        title: "a post with math",
+      
+      description: "an example of a blog post with some math",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/sample-posts/2015/10/20/math.html";
+        
+      },
+    },{id: "post-a-post-with-code",
+      
+        title: "a post with code",
+      
+      description: "an example of a blog post with some code",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/sample-posts/2015/07/15/code.html";
+        
+      },
+    },{id: "post-a-post-with-images",
+      
+        title: "a post with images",
+      
+      description: "this is what included images could look like",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/sample-posts/2015/05/15/images.html";
+        
+      },
     },{id: "news-woman-student-ater-at-the-ens-de-lyon",
           title: ':woman_student: ATER at the ENS de Lyon',
           description: "",

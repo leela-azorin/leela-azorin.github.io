@@ -52,17 +52,6 @@ ninja.data = [{
           window.location.href = "/sample-posts/2024/04/29/typograms.html";
         
       },
-    },{id: "post-a-post-that-can-be-cited",
-      
-        title: "a post that can be cited",
-      
-      description: "this is what a post that can be cited looks like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/sample-posts/2024/04/28/post-citation.html";
-        
-      },
     },{id: "news-woman-student-ater-at-the-ens-de-lyon",
           title: ':woman_student: ATER at the ENS de Lyon',
           description: "",

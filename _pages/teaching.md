@@ -2,14 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Course materials, schedules, and resources for classes taught.
+description: Courses taught.
 nav: true
 nav_order: 6
 calendar: true
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
-
-{% include courses.liquid %}
+- L3/M1 : Linguistique anglaise - Domaine nominal et domaine verbal
+- M2 : Sociolinguistics and language change in the 21st century
+- M2 : Préparation agrégation (renforcement grammatical)
+- L3/M1 : Phonologie

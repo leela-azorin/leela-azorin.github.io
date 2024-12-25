@@ -2,17 +2,25 @@
 // README at: https://github.com/devcontainers/templates/tree/main/src/jekyll
 {
   "name": "Jekyll",
+<<<<<<< HEAD
   // Using a Dockerfile to fix the broken Yarn repository. See issue #3487.
   "build": {
     "dockerfile": "Dockerfile"
   },
+=======
+  "image": "mcr.microsoft.com/devcontainers/jekyll",
+>>>>>>> 37cd83b6 (Initial commit)
 
   // Features to add to the dev container. More info: https://containers.dev/features.
   "features": {
     "ghcr.io/rocker-org/devcontainer-features/apt-packages:1": {
       "packages": "build-essential,imagemagick,inotify-tools,jupyter-nbconvert,procps,ruby-full,zlib1g-dev"
     },
+<<<<<<< HEAD
     "ghcr.io/devcontainers-extra/features/prettier:1.0.2": {}
+=======
+    "ghcr.io/devcontainers-contrib/features/prettier:1": {}
+>>>>>>> 37cd83b6 (Initial commit)
   },
 
   // Optionally: run jekyll serve automatically on container entering using the Docker entrypoint

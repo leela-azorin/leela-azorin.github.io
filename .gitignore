@@ -1,5 +1,6 @@
 _site
 .bundle
+<<<<<<< HEAD
 .DS_store
 .idea
 .jekyll-cache
@@ -13,3 +14,16 @@ assets/rendercv/rendercv_output/*.typ
 Gemfile.lock
 node_modules/
 vendor
+=======
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+.DS_store
+.ruby-version
+.tweet-cache
+Gemfile.lock
+assets/libs/
+node_modules/
+vendor
+.idea
+>>>>>>> 37cd83b6 (Initial commit)

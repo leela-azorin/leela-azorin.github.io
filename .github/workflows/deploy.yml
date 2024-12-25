@@ -7,8 +7,11 @@ on:
       - main
     paths:
       - "assets/**"
+<<<<<<< HEAD
       - "_sass/**"
       - "_scripts/**"
+=======
+>>>>>>> 37cd83b6 (Initial commit)
       - "**.bib"
       - "**.html"
       - "**.js"
@@ -36,8 +39,11 @@ on:
       - main
     paths:
       - "assets/**"
+<<<<<<< HEAD
       - "_sass/**"
       - "_scripts/**"
+=======
+>>>>>>> 37cd83b6 (Initial commit)
       - "**.bib"
       - "**.html"
       - "**.js"

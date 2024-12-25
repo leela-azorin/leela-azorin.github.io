@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .github/instructions/bibtex-bibliography.instructions.md
 .github/instructions/liquid-templates.instructions.md
 .github/instructions/markdown-content.instructions.md
@@ -12,3 +13,7 @@ https://www.linkedin.com/
 https://www.reddit.com/
 README.md
 SEO.md
+=======
+linkedin.com
+reddit.com
+>>>>>>> 37cd83b6 (Initial commit)

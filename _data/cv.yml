@@ -6,15 +6,17 @@
     - name: Date of Birth
       value: 1997
     - name: Languages
-      value: English, French
+      value: French (C2), English (C2), German (B2), Spanish (A2), Russian (A1)
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD (ongoing)
+    - title: PhD
       institution: Université Aix-Marseille
-      year: 2021
-      description: De be going to à gonna, comparaison entre un corpus web et un corpus oral. Thèse supervisee par HERMENT Sophie (LPL), LANSARI Laure (CLILLAC-ARP)
+      year: 2025
+      description: Variations surrounding BE going to and gonna : A linguistic and sociolinguistic study comparing a web corpus and a spoken corpus
+Leela AZORIN. 
+*Under the supervision of HERMENT Sophie (LPL), LANSARI Laure (CLILLAC-ARP)*
 
     - title: Master
       institution: ENS

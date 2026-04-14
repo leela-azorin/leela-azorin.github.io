@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎓 MCF Qualification 7th and 11th Sections
+:mortar_board: MCF Qualification 7th and 11th Sections

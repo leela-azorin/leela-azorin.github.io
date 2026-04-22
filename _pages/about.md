@@ -18,12 +18,11 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I hold a PhD in English Linguistics and Phonetics (Language Sciences) from [Aix-Marseille University](https://www.univ-amu.fr/). I did my PhD at the [LPL Lab](https://www.lpl-aix.fr/contact/azorin-leela/) from 2021 to 2025 and am currently working as an ATER at ENS de Lyon / [ICAR lab](https://www.icar.cnrs.fr/recherche/syntaxe-sens-textualite/). 
+I hold a PhD in English Linguistics and Phonetics (Language Sciences) from [Aix-Marseille University](https://www.univ-amu.fr/). I did my PhD at the [LPL Lab](https://www.lpl-aix.fr/contact/azorin-leela/) from 2021 to 2025 and am currently working as an ATER at ENS de Lyon / [ICAR lab](https://www.icar.cnrs.fr/recherche/syntaxe-sens-textualite/).
 
-
-My research interests lie in the fields of linguistics and phonetics/phonology, with a specific focus on sociolinguistics. I am interested in language variation and language change, across multiple linguistic levels - morphology, phonetics, syntax, semantics, pragmatics -  as well as the social factors that may impact these variations and changes. My research to date has focused on the emergent modal auxiliary _Be going to/gonna_ but I am interested in variation of verbal forms more generally, as well as variation in discourse markers. 
+My research interests lie in the fields of linguistics and phonetics/phonology, with a specific focus on sociolinguistics. I am interested in language variation and language change, across multiple linguistic levels - morphology, phonetics, syntax, semantics, pragmatics -  as well as the social factors that may impact these variations and changes. My research to date has focused on the emergent modal auxiliary _Be going to/gonna_ but I am interested in variation of verbal forms more generally, as well as variation in discourse markers.

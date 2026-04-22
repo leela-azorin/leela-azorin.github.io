@@ -35,8 +35,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather.html";
-            },},{id: "news-layout-post-date-2024-09-01-15-59-00-0400-inline-true-related-posts-false-woman-student-ater-at-the-ens-de-lyon",
-          title: 'layout: post date: 2024-09-01 15:59:00-0400 inline: true related_posts: false — :woman_student: ATER at...',
+            },},{id: "news-woman-student-ater-at-the-ens-de-lyon",
+          title: ':woman_student: ATER at the ENS de Lyon',
           description: "",
           section: "News",},{id: "news-books-phd-defense-at-the-lpl-lab",
           title: ':books: PhD Defense at the LPL Lab',
